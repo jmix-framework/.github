@@ -1,4 +1,9 @@
+
+---
+
 **Jmix 3.1 Release Webinar | November 10, 1:00 PM (UTC+0) | [Registration](https://forms.jmix.io/jmix-3.1-release-webinar?utm_source=github&utm_medium=github&utm_campaign=webinar)**
+
+---
 
 **Jmix** is a full-stack open-source Java platform for enterprise software development with local and public models. Jmix is built on Spring Boot and Vaadin Flow. 
 
